@@ -3,6 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Ignore secret configuration
+mainconfig_secret.ini
+
 # C extensions
 *.so
 
